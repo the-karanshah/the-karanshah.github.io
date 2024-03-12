@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://the-karanshah.github.io/sitemap/sitemap-index.xml
+Sitemap: https://the-karanshah.github.io/sitemap-index.xml
 Host: https://the-karanshah.github.io
